@@ -1,0 +1,13 @@
+.App {
+  padding: 0 1rem;
+}
+
+.item__cols {
+  display: flex;
+  flex-direction: row;
+  gap: 5rem;
+}
+
+h1 {
+  text-align: center;
+}
